@@ -1,5 +1,4 @@
-# CS370TeamProject
- Chat room
+# Chat room
 
 [] The primary function of this chat room is to allow clients to connect to the server and chat globally with all other currently connected clients. It includes various functionality for the users such as:
 
